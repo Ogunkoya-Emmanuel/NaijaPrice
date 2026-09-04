@@ -1,0 +1,24 @@
+{
+  "overall": {
+    "n_test_points": 2400,
+    "model_mae": 4.453,
+    "model_mape_pct": 184.4,
+    "baseline_mae": 4.772,
+    "baseline_mape_pct": 194.59,
+    "improvement_vs_baseline_pct": 5.2
+  },
+  "deep_history_9": {
+    "n_test_points": 1872,
+    "model_mae": 4.184,
+    "model_mape_pct": 139.72,
+    "baseline_mae": 5.294,
+    "baseline_mape_pct": 203.9
+  },
+  "shallow_history_33": {
+    "n_test_points": 528,
+    "model_mae": 5.405,
+    "model_mape_pct": 342.79,
+    "baseline_mae": 2.924,
+    "baseline_mape_pct": 161.58
+  }
+}

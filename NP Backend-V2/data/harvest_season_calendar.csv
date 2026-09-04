@@ -1,0 +1,505 @@
+commodity,month,month_name,is_harvest_month,is_lean_month,harvest_months,lean_months,notes
+Maize White Grain,1,January,0,0,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,2,February,0,0,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,3,March,0,0,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,4,April,0,0,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,5,May,0,1,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,6,June,0,1,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,7,July,0,1,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,8,August,0,0,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,9,September,1,0,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,10,October,1,0,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,11,November,1,0,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Maize White Grain,12,December,0,0,"9,10,11","5,6,7",Main harvest Oct-Nov; minor harvest Mar-Apr in irrigated north
+Rice Local Short-Grain,1,January,0,0,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,2,February,0,0,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,3,March,0,0,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,4,April,0,0,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,5,May,0,1,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,6,June,0,1,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,7,July,0,1,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,8,August,0,0,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,9,September,0,0,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,10,October,1,0,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,11,November,1,0,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Short-Grain,12,December,1,0,"10,11,12","5,6,7",Main harvest Nov-Dec post-rainy season
+Rice Local Broken,1,January,0,0,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,2,February,0,0,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,3,March,0,0,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,4,April,0,0,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,5,May,0,1,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,6,June,0,1,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,7,July,0,1,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,8,August,0,0,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,9,September,0,0,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,10,October,1,0,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,11,November,1,0,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Local Broken,12,December,1,0,"10,11,12","5,6,7",Same cycle as local short-grain rice
+Rice Long-Grain Imported,1,January,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,2,February,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,3,March,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,4,April,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,5,May,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,6,June,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,7,July,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,8,August,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,9,September,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,10,October,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,11,November,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Rice Long-Grain Imported,12,December,0,0,N/A,N/A,"Import-dependent; price driven by FX and shipping, not harvest"
+Wheat Flour 2kg,1,January,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,2,February,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,3,March,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,4,April,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,5,May,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,6,June,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,7,July,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,8,August,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,9,September,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,10,October,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,11,November,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Wheat Flour 2kg,12,December,0,0,N/A,N/A,Fully imported; price driven by FX and global wheat prices
+Semovita 1kg,1,January,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,2,February,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,3,March,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,4,April,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,5,May,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,6,June,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,7,July,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,8,August,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,9,September,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,10,October,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,11,November,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Semovita 1kg,12,December,0,0,N/A,N/A,Processed wheat product; price tracks import costs
+Yam Tuber,1,January,0,0,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,2,February,0,0,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,3,March,0,1,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,4,April,0,1,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,5,May,0,1,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,6,June,0,0,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,7,July,0,0,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,8,August,1,0,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,9,September,1,0,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,10,October,1,0,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,11,November,1,0,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Yam Tuber,12,December,0,0,"8,9,10,11","3,4,5",New yam harvest Aug-Nov; March-May lean pre-harvest
+Irish Potato,1,January,0,0,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,2,February,0,0,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,3,March,1,0,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,4,April,1,0,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,5,May,0,0,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,6,June,0,0,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,7,July,0,1,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,8,August,0,1,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,9,September,0,0,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,10,October,1,0,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,11,November,1,0,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Irish Potato,12,December,0,0,"3,4,10,11","7,8",Bimodal harvest: Mar-Apr (Plateau/Jos) and Oct-Nov
+Sweet Potatoes,1,January,0,0,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,2,February,0,0,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,3,March,0,0,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,4,April,0,1,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,5,May,0,1,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,6,June,0,1,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,7,July,0,0,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,8,August,0,0,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,9,September,1,0,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,10,October,1,0,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,11,November,1,0,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Sweet Potatoes,12,December,0,0,"9,10,11","4,5,6",Peak supply Oct-Nov post-rainy season
+Garri White,1,January,0,0,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,2,February,0,0,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,3,March,0,1,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,4,April,0,1,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,5,May,0,1,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,6,June,0,0,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,7,July,0,0,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,8,August,0,0,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,9,September,1,0,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,10,October,1,0,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,11,November,1,0,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri White,12,December,1,0,"9,10,11,12","3,4,5",Cassava harvest year-round but processing peaks Oct-Dec
+Garri Yellow,1,January,0,0,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,2,February,0,0,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,3,March,0,1,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,4,April,0,1,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,5,May,0,1,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,6,June,0,0,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,7,July,0,0,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,8,August,0,0,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,9,September,1,0,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,10,October,1,0,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,11,November,1,0,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Garri Yellow,12,December,1,0,"9,10,11,12","3,4,5",Same cassava cycle as garri white
+Tomatoes Fresh,1,January,1,0,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,2,February,1,0,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,3,March,1,0,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,4,April,0,0,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,5,May,0,0,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,6,June,0,1,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,7,July,0,1,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,8,August,0,1,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,9,September,0,0,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,10,October,0,0,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,11,November,0,0,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Tomatoes Fresh,12,December,1,0,"12,1,2,3","6,7,8",Dry-season harvest Dec-Mar; rain season (Jun-Aug) lean
+Onions Fresh,1,January,1,0,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,2,February,1,0,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,3,March,0,0,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,4,April,0,0,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,5,May,0,0,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,6,June,0,0,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,7,July,0,1,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,8,August,0,1,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,9,September,0,1,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,10,October,0,0,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,11,November,1,0,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Onions Fresh,12,December,1,0,"11,12,1,2","7,8,9",Kebbi/Sokoto harvest Nov-Jan; mid-rainy season lean
+Carrots Fresh,1,January,1,0,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,2,February,1,0,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,3,March,0,0,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,4,April,0,0,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,5,May,0,0,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,6,June,0,1,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,7,July,0,1,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,8,August,0,1,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,9,September,0,0,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,10,October,0,0,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,11,November,1,0,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Carrots Fresh,12,December,1,0,"11,12,1,2","6,7,8",Northern Nigeria harvest Nov-Feb dry season
+Ginger Fresh,1,January,1,0,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,2,February,0,0,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,3,March,0,0,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,4,April,0,0,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,5,May,0,1,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,6,June,0,1,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,7,July,0,1,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,8,August,0,0,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,9,September,0,0,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,10,October,0,0,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,11,November,1,0,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Ginger Fresh,12,December,1,0,"11,12,1","5,6,7",Harvest Nov-Jan in Kaduna/Nasarawa belt
+Plantain Ripe,1,January,0,1,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,2,February,0,1,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,3,March,0,1,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,4,April,1,0,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,5,May,1,0,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,6,June,0,0,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,7,July,0,0,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,8,August,0,0,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,9,September,1,0,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,10,October,1,0,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,11,November,0,0,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Ripe,12,December,0,0,"4,5,9,10","1,2,3",Bimodal: Apr-May and Sep-Oct; Jan-Mar typically lean
+Plantain Unripe,1,January,0,1,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,2,February,0,1,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,3,March,0,1,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,4,April,1,0,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,5,May,1,0,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,6,June,0,0,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,7,July,0,0,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,8,August,0,0,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,9,September,1,0,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,10,October,1,0,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,11,November,0,0,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Plantain Unripe,12,December,0,0,"4,5,9,10","1,2,3",Same cycle as ripe plantain
+Watermelon Fresh Medium,1,January,1,0,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,2,February,1,0,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,3,March,0,0,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,4,April,0,0,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,5,May,0,0,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,6,June,0,0,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,7,July,0,1,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,8,August,0,1,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,9,September,0,1,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,10,October,0,0,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,11,November,1,0,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Watermelon Fresh Medium,12,December,1,0,"11,12,1,2","7,8,9",Dry-season crop; Nov-Feb peak in north
+Beans Brown,1,January,0,0,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,2,February,0,0,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,3,March,0,0,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,4,April,0,1,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,5,May,0,1,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,6,June,0,1,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,7,July,0,0,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,8,August,0,0,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,9,September,0,0,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,10,October,1,0,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,11,November,1,0,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans Brown,12,December,1,0,"10,11,12","4,5,6",Main cowpea harvest Oct-Dec; lean Apr-Jun pre-harvest
+Beans White,1,January,0,0,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,2,February,0,0,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,3,March,0,0,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,4,April,0,1,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,5,May,0,1,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,6,June,0,1,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,7,July,0,0,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,8,August,0,0,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,9,September,0,0,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,10,October,1,0,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,11,November,1,0,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Beans White,12,December,1,0,"10,11,12","4,5,6",Same cowpea harvest window as brown beans
+Groundnuts Roasted 75cl,1,January,0,0,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,2,February,0,0,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,3,March,0,0,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,4,April,0,1,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,5,May,0,1,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,6,June,0,1,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,7,July,0,0,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,8,August,0,0,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,9,September,0,0,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,10,October,1,0,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,11,November,1,0,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Groundnuts Roasted 75cl,12,December,1,0,"10,11,12","4,5,6",Groundnut harvest Oct-Dec in northern belt
+Palm Oil 75cl,1,January,0,0,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,2,February,0,0,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,3,March,1,0,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,4,April,1,0,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,5,May,1,0,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,6,June,1,0,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,7,July,0,0,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,8,August,0,0,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,9,September,0,0,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,10,October,0,1,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,11,November,0,1,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Palm Oil 75cl,12,December,0,1,"3,4,5,6","10,11,12",Peak oil palm fruiting Mar-Jun; Oct-Dec lean
+Groundnut Oil 75cl,1,January,1,0,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,2,February,0,0,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,3,March,0,0,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,4,April,0,0,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,5,May,0,1,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,6,June,0,1,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,7,July,0,1,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,8,August,0,0,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,9,September,0,0,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,10,October,0,0,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,11,November,1,0,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Groundnut Oil 75cl,12,December,1,0,"11,12,1","5,6,7",Tracks groundnut harvest with ~1-month processing lag
+Vegetable Oil 75cl,1,January,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,2,February,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,3,March,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,4,April,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,5,May,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,6,June,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,7,July,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,8,August,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,9,September,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,10,October,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,11,November,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Vegetable Oil 75cl,12,December,0,0,N/A,N/A,Largely imported/refined; price tracks FX and soybean global prices
+Beef Boneless,1,January,1,0,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,2,February,0,0,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,3,March,0,0,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,4,April,0,0,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,5,May,0,0,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,6,June,0,0,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,7,July,0,1,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,8,August,0,1,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,9,September,0,0,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,10,October,0,0,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,11,November,1,0,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Beef Boneless,12,December,1,0,"11,12,1","7,8",Slight price dip Dec-Jan (Sallah slaughter surplus); Jul-Aug lean
+Goat Meat Bone-In,1,January,1,0,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,2,February,0,0,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,3,March,0,0,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,4,April,0,0,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,5,May,0,0,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,6,June,0,0,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,7,July,0,1,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,8,August,0,1,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,9,September,0,0,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,10,October,0,0,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,11,November,1,0,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Goat Meat Bone-In,12,December,1,0,"11,12,1","7,8",Eid/Sallah season increases supply Nov-Jan
+Chicken Meat Frozen,1,January,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,2,February,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,3,March,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,4,April,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,5,May,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,6,June,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,7,July,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,8,August,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,9,September,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,10,October,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,11,November,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Meat Frozen,12,December,0,0,N/A,N/A,Imported frozen; price tracks FX and cold-chain costs
+Chicken Feet,1,January,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,2,February,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,3,March,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,4,April,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,5,May,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,6,June,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,7,July,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,8,August,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,9,September,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,10,October,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,11,November,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Feet,12,December,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,1,January,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,2,February,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,3,March,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,4,April,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,5,May,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,6,June,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,7,July,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,8,August,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,9,September,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,10,October,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,11,November,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Chicken Wings,12,December,0,0,N/A,N/A,Import by-product; price tracks chicken imports
+Agric Hen Eggs,1,January,0,0,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,2,February,0,0,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,3,March,0,1,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,4,April,0,1,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,5,May,0,1,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,6,June,0,0,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,7,July,0,0,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,8,August,0,0,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,9,September,0,0,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,10,October,1,0,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,11,November,1,0,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs,12,December,1,0,"10,11,12","3,4,5",Layer production dips in hot months; Oct-Dec peak output
+Agric Hen Eggs (Crate of 30 Pieces),1,January,0,0,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),2,February,0,0,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),3,March,0,1,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),4,April,0,1,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),5,May,0,1,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),6,June,0,0,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),7,July,0,0,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),8,August,0,0,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),9,September,0,0,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),10,October,1,0,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),11,November,1,0,"10,11,12","3,4,5",Same cycle as single eggs
+Agric Hen Eggs (Crate of 30 Pieces),12,December,1,0,"10,11,12","3,4,5",Same cycle as single eggs
+Catfish Fresh,1,January,0,0,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,2,February,0,0,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,3,March,0,1,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,4,April,0,1,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,5,May,0,1,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,6,June,0,0,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,7,July,0,0,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,8,August,0,0,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,9,September,1,0,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,10,October,1,0,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,11,November,1,0,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Catfish Fresh,12,December,0,0,"9,10,11","3,4,5",Post-rainy season harvest; pond harvests peak Oct-Nov
+Tilapia Fresh,1,January,0,0,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,2,February,0,0,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,3,March,0,1,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,4,April,0,1,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,5,May,0,1,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,6,June,0,0,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,7,July,0,0,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,8,August,0,0,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,9,September,1,0,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,10,October,1,0,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,11,November,1,0,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Tilapia Fresh,12,December,0,0,"9,10,11","3,4,5",Same aquaculture cycle as catfish
+Mackerel Frozen,1,January,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,2,February,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,3,March,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,4,April,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,5,May,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,6,June,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,7,July,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,8,August,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,9,September,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,10,October,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,11,November,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Mackerel Frozen,12,December,0,0,N/A,N/A,Imported; price tracks FX and import volumes
+Smoked Fish Mackerel,1,January,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,2,February,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,3,March,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,4,April,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,5,May,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,6,June,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,7,July,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,8,August,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,9,September,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,10,October,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,11,November,0,0,N/A,N/A,Processed import; FX-driven
+Smoked Fish Mackerel,12,December,0,0,N/A,N/A,Processed import; FX-driven
+Titus Frozen,1,January,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,2,February,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,3,March,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,4,April,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,5,May,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,6,June,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,7,July,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,8,August,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,9,September,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,10,October,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,11,November,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Titus Frozen,12,December,0,0,N/A,N/A,Imported Atlantic mackerel; FX-driven
+Dried Fish Bonga,1,January,1,0,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,2,February,1,0,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,3,March,0,0,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,4,April,0,0,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,5,May,0,0,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,6,June,0,1,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,7,July,0,1,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,8,August,0,1,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,9,September,0,0,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,10,October,0,0,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,11,November,1,0,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Dried Fish Bonga,12,December,1,0,"11,12,1,2","6,7,8",Bonga fishing peaks dry season Nov-Feb; rainy season lean
+Crayfish Small White,1,January,1,0,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,2,February,1,0,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,3,March,0,0,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,4,April,0,0,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,5,May,0,0,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,6,June,0,1,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,7,July,0,1,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,8,August,0,1,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,9,September,0,0,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,10,October,0,0,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,11,November,1,0,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Crayfish Small White,12,December,1,0,"11,12,1,2","6,7,8",Cross River/Delta harvest peaks dry season Nov-Feb
+Evaporated Milk Peak 150g,1,January,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,2,February,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,3,March,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,4,April,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,5,May,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,6,June,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,7,July,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,8,August,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,9,September,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,10,October,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,11,November,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Peak 150g,12,December,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,1,January,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,2,February,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,3,March,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,4,April,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,5,May,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,6,June,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,7,July,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,8,August,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,9,September,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,10,October,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,11,November,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Evaporated Milk Three Crown 160g,12,December,0,0,N/A,N/A,Imported processed dairy; price tracks FX
+Bread Sliced 450g,1,January,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,2,February,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,3,March,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,4,April,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,5,May,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,6,June,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,7,July,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,8,August,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,9,September,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,10,October,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,11,November,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Sliced 450g,12,December,0,0,N/A,N/A,Price tracks wheat flour import costs and energy (baking)
+Bread Unsliced 450g,1,January,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,2,February,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,3,March,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,4,April,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,5,May,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,6,June,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,7,July,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,8,August,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,9,September,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,10,October,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,11,November,0,0,N/A,N/A,Same cost drivers as sliced bread
+Bread Unsliced 450g,12,December,0,0,N/A,N/A,Same cost drivers as sliced bread
