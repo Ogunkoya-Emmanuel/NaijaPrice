@@ -6,6 +6,7 @@ from app import models, schemas
 from app.services.ml_forecast_engine import compute_forecast
 from app.services.ai_explainer import get_forecast_explanation, determine_dominant_driver
 from app.services.anomaly_detection import is_latest_month_anomalous
+from app.services.forecast_cache import get_cached_forecast, save_forecast_to_cache   
 import json, os
 
 router = APIRouter(prefix="/forecast", tags=["Forecast"])
@@ -106,13 +107,24 @@ def get_all_forecasts(
     limit: int = Query(20, ge=1, le=42),
     db: Session = Depends(get_db),
 ):
-    """Returns forecasts for all commodities. Useful for the dashboard overview."""
+    """
+    Returns forecasts for all commodities. Powers the dashboard overview.
+
+    Cached per commodity, per calendar day (see app/services/forecast_cache.py) -
+    only the first request of the day for a given commodity actually recomputes
+    it; everything after that is a straight DB read of the cached row.
+    """
     commodities = db.query(models.Commodity).limit(limit).all()
     results = []
     for c in commodities:
+        cached = get_cached_forecast(c.id, db)
+        if cached:
+            results.append({"commodity_id": c.id, "commodity": c.name, **cached})
+            continue
+
         r = compute_forecast(c.id, db)
         if r:
-            results.append({
+            entry = {
                 "commodity_id": c.id,
                 "commodity":    c.name,
                 "direction":    r["direction"],
@@ -120,5 +132,7 @@ def get_all_forecasts(
                 "confidence":   r["confidence"],
                 "buying_advice": r["buying_advice"],
                 "current_price": r["current_price"],
-            })
+            }
+            results.append(entry)
+            save_forecast_to_cache(c.id, r["target_month"], entry, db)
     return results

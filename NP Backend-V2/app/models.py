@@ -133,6 +133,7 @@ class ForecastCache(Base):
     commodity_id     = Column(Integer, ForeignKey("commodities.id"), nullable=False)
     forecast_date    = Column(Date, nullable=False)
     target_month     = Column(Date, nullable=False)
+    current_price    = Column(Float, nullable=True)
     forecast_pct     = Column(Float, nullable=True)
     direction        = Column(String(10), nullable=True)
     confidence       = Column(Float, nullable=True)
