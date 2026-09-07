@@ -1,15 +1,3 @@
-"""
-Builds the training panel for the price-change forecasting model.
-
-Reads directly from the data/ CSVs (not the database) so this pipeline is
-reproducible independent of any running Postgres instance.
-
-For every (commodity, target_month) pair, builds a feature row using ONLY
-information that would have been available the month BEFORE the target month
-(i.e. no lookahead), with the target being the actual mom_pct realized in
-the target month. This mirrors exactly how the model will be used in
-production: at time t-1, forecast the change for month t.
-"""
 import pandas as pd
 import numpy as np
 import os
