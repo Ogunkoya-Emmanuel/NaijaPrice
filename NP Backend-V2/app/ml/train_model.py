@@ -1,16 +1,4 @@
-"""
-Trains a single pooled LightGBM model across all 42 commodities to forecast
-next-month price % change, and backtests it with rolling time-based
-validation against a seasonal-naive baseline.
 
-Why one pooled model instead of 42 per-commodity models: most commodities
-only have ~18 months of NBS history, nowhere near enough to fit a model
-individually. Pooling lets the 9 commodities with deep (2007-2026) history
-teach the model general seasonal/fuel/FX price dynamics, which the other 33
-commodities then borrow via the `commodity` categorical feature.
-
-Run from NP Backend/:  python -m app.ml.train_model
-"""
 import pandas as pd
 import numpy as np
 import lightgbm as lgb
