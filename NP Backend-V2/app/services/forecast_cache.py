@@ -1,16 +1,3 @@
-"""
-Day-scoped cache for the dashboard's batch forecast endpoint.
-
-Forecasts are expensive to recompute (a DB history query plus, for 9
-commodities, an ML inference call) and the inputs barely move within a
-day - NBS data updates monthly, fuel/FX data infrequently. So each
-commodity gets at most one real computation per calendar day; every
-other request that day reads the cached row instead.
-
-This reuses forecasts_cache, a table that already existed in the schema
-(with a UniqueConstraint on commodity_id + forecast_date) but was never
-wired up to anything - the caching mechanism was already half-built.
-"""
 from datetime import date, datetime
 from sqlalchemy.orm import Session
 from sqlalchemy.dialects.postgresql import insert as pg_insert
